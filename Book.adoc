@@ -1,1 +1,5 @@
 # ANQ - An Open System of Meta-Magick
+
+include::00-Intro.adoc[Introduction]
+
+include::01-Beginning.adoc[A Beginning]
