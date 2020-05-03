@@ -4,6 +4,15 @@ endif::[]
 
 ## Perception
 
+The agent, if not complete unto itself, leaves a gap where again further manifestation may appear.
+This is now experienced by the agent.
+Perception is the continuing process creation manifesting.
+This perception is both raw sense as well as emotional reaction.
+
+image::media/7-tree-straight.png[Seventh Tree, Straight]
+
+image::media/7-tree.png[Seventh Tree, Twisted]
+
 ifdef::env-github,backend-html5[]
 link:08-Representation.adoc[> Next - Representation >]
 endif::[]
