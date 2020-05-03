@@ -1,1 +1,15 @@
 ## Introduction
+
+This book introduces the concepts and practices of working with the ANQ meta-magick system.
+This is an open system with a structure inspired by Qabalah/Kabbalah, but with no intent to be an interpretation of such systems.
+
+ANQ stands for ANQ's Not Qabalah, a nod to the https://gnu.org/[GNU project], "GNU's Not Unix".
+The GNU project emerged in response to the ownership claims to the popular Unix operating system.
+Like GNU, ANQ aims to create a free and open structure that can be built upon and manipulated in whatever manner the user desires.
+ANQ is a meta-magick system that, like an operating system, aims to give you what you need to get your own customized magick environment up and running faster with a minimum of constraints placed on what you create on top of it.
+
+This work is licensed under the https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License].
+
+ifdef::env-github,backend-html5[]
+link:01-Beginning.adoc[> Next - A Beginning >]
+endif::[]
