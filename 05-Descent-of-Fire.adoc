@@ -4,6 +4,20 @@ endif::[]
 
 ## Descent of Fire
 
+If the process of creation will now continue in this level, creation must necessitate destruction.
+This is simply the same process as before, chaos sparking creation into the world, but now it is disruptive to what was there previously.
+This is the fundamental nature of the force of Will, though it has not yet attached itself to an agent.
+
+This fifth sphere emerges by splitting from fourth.
+The path marked “6″ splits from “3″ along with it.
+A new symmetry of sums appears: 9 = 6+3 = 2+7 = 4+5.
+
+image::media/5-tree-straight.png[Fifth Tree, Straight]
+
+If we twist the bottom of the fifth step of the process tree we find it corresponds to the classic elemental configuration of the pentagram:
+
+image::media/5-tree.png[Fifth Tree, Twisted]
+
 ifdef::env-github,backend-html5[]
 link:06-Agency.adoc[> Next - Agency >]
 endif::[]
