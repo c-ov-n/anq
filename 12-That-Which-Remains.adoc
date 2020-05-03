@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:11-Breaking-the-World.adoc[< Prev - Breaking the World <]
+endif::[]
+
+## That Which Remains
+
+ifdef::env-github,backend-html5[]
+link:13-The-Fools-Journey.adoc[> Next - The Fool's Journey >]
+endif::[]

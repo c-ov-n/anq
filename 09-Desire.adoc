@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:08-Representation.adoc[< Prev - Representation <]
+endif::[]
+
+## Desire
+
+ifdef::env-github,backend-html5[]
+link:10-Manifestation.adoc[> Next - Manifestation >]
+endif::[]

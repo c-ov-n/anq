@@ -1,3 +1,7 @@
+ifdef::env-github,backend-html5[]
+link:00-Intro.adoc[< Prev - Introduction <]
+endif::[]
+
 ## A Beginning
 
 [quote,Mass of the Dead God]
@@ -9,6 +13,22 @@ ____
 
 Existence happens because non-existence is unstable.
 
+The nature of non-existence can be understood in three steps.
+Nothingness means no-thing-ness.
+“No”, negation, is the key to understanding.
+The nature of Nothing can only be approached by stripping away all concept of what it is.
+Nothing is not anything, nor is it void, nor is it not void.
+Following this spiral of negation we approach an understanding that nothing is in no way limited.
+The nature of pure non-being is identical with all being, even all contradiction, asserting itself into being simultaneously.
+
 ### Primal Chaos
 
+The principle of the instability of non-being is primal Chaos.
+This is the divine spark of creation, the light that flashes out of void and defines the void in its light.
+Its spark may immediately flash and go out, or it may take such a form that it gives rise to the next step.
+
 image::media/1-tree.png[First Tree]
+
+ifdef::env-github,backend-html5[]
+link:02-Process.adoc[> Next - Process >]
+endif::[]

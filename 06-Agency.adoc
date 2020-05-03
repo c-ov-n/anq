@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:05-Descent-of-Fire.adoc[< Prev - Descent of Fire <]
+endif::[]
+
+## Agency
+
+ifdef::env-github,backend-html5[]
+link:07-Perception.adoc[> Next - Perception >]
+endif::[]

@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:10-Manifestation.adoc[< Prev - Manifestation <]
+endif::[]
+
+## Breaking the World
+
+ifdef::env-github,backend-html5[]
+link:12-That-Which-Remains.adoc[> Next - That Which Remains >]
+endif::[]

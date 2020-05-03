@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:07-Perception.adoc[< Prev - Perception <]
+endif::[]
+
+## Representation
+
+ifdef::env-github,backend-html5[]
+link:09-Desire.adoc[> Next - Desire >]
+endif::[]

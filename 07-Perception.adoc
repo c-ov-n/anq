@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:06-Agency.adoc[< Prev - Agency <]
+endif::[]
+
+## Perception
+
+ifdef::env-github,backend-html5[]
+link:08-Representation.adoc[> Next - Representation >]
+endif::[]

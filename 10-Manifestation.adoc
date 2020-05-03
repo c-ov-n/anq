@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:09-Desire.adoc[< Prev - Desire <]
+endif::[]
+
+## Manifestation
+
+ifdef::env-github,backend-html5[]
+link:11-Breaking-the-World.adoc[> Next - Breaking the World >]
+endif::[]

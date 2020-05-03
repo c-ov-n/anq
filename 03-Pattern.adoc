@@ -1,0 +1,9 @@
+ifdef::env-github,backend-html5[]
+link:02-Process.adoc[< Prev - Process <]
+endif::[]
+
+## Pattern
+
+ifdef::env-github,backend-html5[]
+link:04-Emergence.adoc[> Next - Emergence >]
+endif::[]

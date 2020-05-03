@@ -3,3 +3,27 @@
 include::00-Intro.adoc[Introduction]
 
 include::01-Beginning.adoc[A Beginning]
+
+include::02-Process.adoc[Process]
+
+include::03-Pattern.adoc[Pattern]
+
+include::04-Emergence.adoc[Emergence]
+
+include::05-Descent-of-Fire.adoc[Descent of Fire]
+
+include::06-Agency.adoc[Agency]
+
+include::07-Perception.adoc[Perception]
+
+include::08-Representation.adoc[Representation]
+
+include::09-Desire.adoc[Desire]
+
+include::10-Manifestation.adoc[Manifestation]
+
+include::11-Breaking-the-World.adoc[Breaking the World]
+
+include::12-That-Which-Remains.adoc[That Which Remains]
+
+include::13-The-Fools-Journey.adoc[The Fool's Journey]

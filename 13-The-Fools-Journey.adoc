@@ -1,0 +1,5 @@
+ifdef::env-github,backend-html5[]
+link:12-That-Which-Remains.adoc[< Prev - That Which Remains <]
+endif::[]
+
+## The Fool's Journey
