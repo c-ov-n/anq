@@ -4,6 +4,10 @@ endif::[]
 
 ## Manifestation
 
+image::media/10-tree-straight.png[Tenth Tree, Straight]
+
+image::media/10-tree.png[Tenth Tree, Twisted]
+
 ifdef::env-github,backend-html5[]
 link:11-Breaking-the-World.adoc[> Next - Breaking the World >]
 endif::[]
