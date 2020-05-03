@@ -11,13 +11,19 @@ ANQ is a meta-magick system that, like an operating system, aims to give you wha
 In this repository you will find a book in http://asciidoc.org/[AsciiDoc].
 This work is licensed under the https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License].
 
+## Reading the Book
+
+The easiest way to read this book is here on GitHub.
+
+link:Book.adoc[Read the Book].
+
+## Building the AsciiDoc HTML or PDF
+
+This repository is designed to be built with https://asciidoctor.org/[Asciidoctor].
+
 ## Contributing
 
 This work is in the process of initial drafting and is not open to contributions at this time.
 If you are interested in helping, then please keep in touch.
 Once we approach a completed draft we will be looking for proof readers and help editing.
 Once the final draft is complete we will be opening up to contributions that expand upon the material presented here.
-
-## Building the AsciiDoc PDF
-
-This repository is designed to be built with https://asciidoctor.org/[Asciidoctor].
