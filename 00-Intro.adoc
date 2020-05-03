@@ -8,6 +8,25 @@ The GNU project emerged in response to the ownership claims to the popular Unix 
 Like GNU, ANQ aims to create a free and open structure that can be built upon and manipulated in whatever manner the user desires.
 ANQ is a meta-magick system that, like an operating system, aims to give you what you need to get your own customized magick environment up and running faster with a minimum of constraints placed on what you create on top of it.
 
+The core of the ANQ system is the emergence of the Process Tree.
+The first seeds of this work were planted in 1998.
+When studying the Qabalah and the Tarot as presented by Aleister Crowley, the mind rejected it.
+There was seen a brilliance obscured by too many obscurities, overburdened with syncretic associations.
+It was clear that the best way forward to study the Qabalah was to not study the Qabalah, but rather water this minimal brilliant seed and see how it developed of its own accord.
+
+Any true student of this work must likewise work with this system and come to their own understanding of it.
+There are brilliant flashes of insight throughout its structure.
+The only way to pluck this fruit is to make it your own.
+Hesitate not at all to reject or reform any aspect or correspondence.
+My own experience has taught me that there are many alternate forms of this emergent structure, each of which may be of use and have its own hidden treasure.
+What is presented here is what has been found in my own exploration to be the most useful configuration.
+
+The word “Qabalah” is used due to the obvious debt this system owes to other systems of Qabalah, particularly the Hermetic Qabalah and Aleister Crowley’s work in particular.
+However, this system and its emergent method mark a deliberate break with traditional Qabalah.
+We have no regard for whether the system presented here either elucidates the meaning of any other system of Qabalah or contradicts it.
+The lack of correspondences such as the Hebrew alphabet and astrological associations are deliberate.
+Practitioners are invited to add these, or other correspondences into the system or not as they find useful.
+
 This work is licensed under the https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License].
 
 ifdef::env-github,backend-html5[]
