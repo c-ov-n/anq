@@ -19,6 +19,14 @@ With the manifestation of the subject, the wandering sum 23 now completes its as
 
 image::media/11-tree.png[Eleventh Tree, Twisted]
 
+## Tongue Meditation
+
+"I must have the tongue whose word manifested the world."
+
+A meditation on the method of capturing the spark of creation.
+The tongue explores the inside of the mouth, making the body alien to itself.
+In this manner the tongue is cut off from the sense of wholeness of the body.
+
 ifdef::env-github,backend-html5[]
 link:12-That-Which-Remains.adoc[> Next - That Which Remains >]
 endif::[]
