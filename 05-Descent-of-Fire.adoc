@@ -41,6 +41,89 @@ Fundamentally the pentagram is just a beautiful geometric shape to which meaning
 
 There is a traditional set of pentagrams that map the four elements of fire, water, air, and earth to the four lower points and spirit to the topmost point.
 
+image::media/elemental-pentagram-bw.png[Elemental Pentagram]
+
+Little explanation is given to explain why these elements are assigned these positions.
+One popular explanation is that these follow a clockwise rotation about the center of the pentagram following the order of the elements: Spirt > Fire > Air > Water > Earth.
+This corresponds to “weights” of the elements in that Spirit is the most subtle, heat/fire rises in air, water falls in air, and earth sinks in water.
+
+If this is the principle for the pentagram’s construction, then we might guess that invoking/banishing pentagrams could correspond to traversing the pentagram clockwise/anticlockwise starting and returning to the element invoked or banished.
+So banishing earth would originate at the Earth point and start by moving up to Water while invoking earth would start at Earth and move up to Spirit.
+This is a perfectly workable system, but it is not the traditional system.
+
+The traditional system is quite surprising in many regards and suggests that the explanation for the elemental positions is not as normally described.
+Shown below are the traditional associations of elemental pentagrams for banishing.
+
+image::media/elemental-pentagram.png[Elemental Pentagram]
+
+The invoking pentagrams use the same line segments as the banishing pentagrams, only reversed.
+So banishing Earth starts in the point assigned to Earth and moves up to Spirit while the invoking Earth pentagram starts in Spirit and descends to Earth along the same line.
+What is more, the Air and Water pentagrams stand in an opposing relationship where Banishing Air is the exact same pentagram as invoking Water.
+Finally, and perhaps most surprising, is that two paths are left for spirit pentagrams and neither of these start or end on the spirit point.
+The path originating in Earth is termed Spirit Passive while the path originating in Fire is Spirit Active.
+
+These pentagrams have horizontal symmetry that does not suggest a circular motion or interpretation.
+Air and Water stand in an opposite relationship and Earth and Fire stand in another sort of opposite relationship.
+Spirit seems to have an opposite relationship to itself!
+
+A possible explanation for this configuration can be found hidden in the best known pentagram ritual, the Lesser Banishing Ritual of the Pentagram.
+In this ritual we find the elements corresponding to the compass directions with Air in the East, Fire in the South, Water in the West, and Earth in the North:
+
+image::media/???.png[Elemental Compass]
+
+Here we find Air/Water in opposite quarters.
+Air associated with the intellect and water with the emotional.
+Fire is positioned as energy and change while North is the created, the actual.
+In order to transform this compass layout into the pentagram above, fire needs to descend to the Earth.
+This is the transformation from the divine creative fire to fire taking on its destructive characteristics.
+Earth is destroyed and takes on characteristics of death.
+This transformation is visualized as an impulse running down the path from Fire to Earth.
+The path is split and leaves an empty void in the upper location which is the position of Spirit.
+
+This explains the elemental pentagrams.
+Air and Water stand as balanced opposites and so their paths are symmetrical for invoking/banishing.
+Fire and Earth stand in the same relationship, but because of the fall of fire they bear this relationship through Spirit, not directly to each other.
+
+This explanation so far tells us only about these three paths of the pentagram.
+The paths of spirit haven’t been addressed yet.
+To explain their origin we need to go back farther and reveal paths that were not shown previously.
+
+Originally there is the divine fire, pure chaotic creation without bounds.
+The divine fire finds its pair when it creates that which can receive and guide a further process of creation.
+This is the fundamental nature of water.
+As creation of the divine fire flows through the process of water it creates a pattern that is the process taken as an integrated unity.
+This integrative and unifying property is the fundamental nature of Air.
+
+image::media/elements-2to3.png[Elements 2 to 3]
+
+The next step is within the pattern there arises a new creation.
+This is emergence.
+It is the power of process and pattern to give rise to novel creations that display natures beyond what was originally put in.
+This is the fundamental property of Earth.
+
+image::media/elements-3to4.png[Elements 3 to 4]
+
+This yields the compass configuration of the elements discussed previously.
+Now we see that there are paths that around the outside of the figure as well.
+These will form the spirit paths of the pentagram.
+
+Showing the process of division discussed previously, now with the additional paths, suggests the splitting of Earth after the descent of fire produces not a pentagram but a pyramid.
+
+image::media/elements-4to5-new.png[Elements 4 to 5]
+
+The familiar pentagram is a variation on this same picture, simply with a twist at the bottom.
+
+image::media/elements-5-new2.png[Elements 5]
+
+The paths in blue and yellow are the paths employed in the spirit pentagrams passive and active.
+The path shown in green, connecting fire and earth, is the path representing the fall of fire.
+It is the union of the active and passive aspects of spirit.
+
+When invoking spirit it is best to invoke both passive and active.
+First invoke passive, starting in earth and up towards water and around to Air, Fire, Spirit and back to Earth.
+Now draw the path from Earth to Fire and invoke spirit active through Air, Water, Earth, Spirit and back to Fire.
+The result should be that this allows for a union of Fire and Earth, a reversal of the fall and allowing spirit to become the divine fire once again.
+
 ### ANQ Pentagram Ritual
 
 The ANQ pentagram ritual follows in a pattern established by the Lesser Ritual of the Pentagram, LRP, also known as the Lesser _Banishing_ Ritual of the Pentagram, LBRP,
