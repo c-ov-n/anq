@@ -32,6 +32,37 @@ If we twist the bottom of the fifth step of the process tree we find it correspo
 
 image::media/5-tree.png[Fifth Tree, Twisted]
 
+### Reinterpreting the Elemental Pentagram
+
+The pentagram is just a five pointed star.
+If it appears in a circle then it can be called a pentacle.
+It can be aligned with a central point upward or downward or to the side, whatever suits.
+Fundamentally the pentagram is just a beautiful geometric shape to which meanings can be associated.
+
+There is a traditional set of pentagrams that map the four elements of fire, water, air, and earth to the four lower points and spirit to the topmost point.
+
+### ANQ Pentagram Ritual
+
+The ANQ pentagram ritual follows in a pattern established by the Lesser Ritual of the Pentagram, LRP, also known as the Lesser _Banishing_ Ritual of the Pentagram, LBRP,
+but with the simplifications used in Peter Carrol's Gnostic Pentagram ritual.
+
+The direct pentagram invoking and banishing patterns are understood as a result of the emergence of the position of the five elements from the four through the descent of fire discussed previously.
+
+In brief, Water and Air make a syzygy, a complementary/opposite pair: process and pattern, the process being the essential incompleteness of existence that yields the flow of creation and its complement of the universal pattern produced by the flow of process.
+Fire and Earth are also a syzygy.
+Fire originally being the divine spark of chaos which asserts itself into being from non-being and Earth being the emergent phenomena which arises within process and pattern, Intent.
+In the fifth step fire has descended and now its creative force is also destructive.
+The creation/destruction of Fire is Will.
+Divine reasonless-ness of chaos is spirit and creation/destruction is fire.
+The path between the top point and fire and earth still represents the syzygy, even though it is now split.
+
+When invoking the path should be drawn with a total of six strokes.
+Begin as indicated below, moving along the path toward the element, tracing out the pentagram and ending by repeating the first path to end on element invoked.
+In banishing we use five strokes, we reverse the initial direction and stop upon returning to the element, returning it to its proper place.
+Banishing is balanced, the fifth stroke brings completion. Invoking is intentionally not balanced.
+
+image::media/elemental-pentagram.png[Elemental Pentagram]
+
 ifdef::env-github,backend-html5[]
 link:06-Agency.adoc[> Next - Agency >]
 endif::[]
