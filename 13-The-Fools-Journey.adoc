@@ -6,33 +6,109 @@ endif::[]
 
 ### 0 - The Fool
 
+(1) Chaos -> (2) Process
+
 ### I - The Magus
+
+(2) Process -> (3) Pattern
+
+This path is the Empress in the Thoth and G∴D∴ systems.
 
 ### II - The Spinner
 
+(3) Pattern -> (1) Chaos
+
+In the Thoth this path is the Magus and The Magician in the G∴D∴ system.
+
+In the Thoth and G∴D∴ systems trump II is the High Priestess and in the Tarot of Marseilles it is La Papesse (The Popess).
+
 ### III - The Serpent
+
+(1) Chaos -> (6/11) Agent
+
+In the Thoth and G∴D∴ systems this path is The High Priestess.
 
 ### IV - The Emperor
 
+(6/11) Agent -> (4/5) Intent
+
+In the Thoth and G∴D∴ systems this path is The Hermit.
+
 ### V - The Hierophant
+
+(4/5) Intent -> (2) Process
+
+This path is also the Hierophant in the Thoth and G∴D∴ systems.
 
 ### VI - The Lovers
 
+(2) Process -> (6/11) Agent
+
+The corresponding path in the Thoth tarot is the Star and The Emperor in the G∴D∴ system.
+
 ### VII - Chariot
+
+(6/11) Agent -> (5/7) Will
+
+The corresponding path in the Thoth is Adjustment and Justice in the G∴D∴ system.
 
 ### VIII - Justice
 
+(5/7) Will -> (3) Pattern
+
 ### IX - Hermit
+
+(3) Pattern -> (6/11) Agent
 
 ### X - Fortune
 
+(6/11) Agent -> (7/13) Sense
+
 ### XI - Strength
+
+(7/13) Sense -> (4/5) Intent
+
+One interpretation is strength as in signal strength.
+Sense data connecting to the fundamental things of being.
+Another spin on it, relating to the traditional symbol of the card of the woman with the lion, it is seeing things truely.
+Strength is knowing what not to fear, because when our sense lets us read intent we know when we are safe and when there is real danger.
+
+In the Thoth and G∴D∴ systems the corresponding path is Fortune.
+The Thoth calls trump XI "Lust" but for ANQ Lust is trump XII.
 
 ### XII - Hanged Man
 
+(4/5) Intent -> (5/7) Will
+
+This path emerged from the descent of fire in the formation of the pentagram.
+This was the transformation of the divine fire of creation to take on destructive properties.
+So the various myths of the descent of fire apply to this path.
+The myth of prometheus, and his being bound to a rock is punishment echo the binding of the hanged man.
+Also significant is the myth of Odin and the runes, his binding to the world tree.
+
+In the Thoth this path is called Lust and in Strength in the G∴D∴ system.
+
 ### XIII - Death
 
+(5/7) Will -> (8/17) Thought
+
+Sphere (5/7) relates to the passage of time and to (8/17) memory, symbolic thougth.
+Death in this context is about memory in time, aging, and memory of things past and lost.
+Memory cuts both ways, the ability to understand death and loss is because of memory, but memory is also how we exist through time.
+
+In the Thoth and G∴D∴ systems the corresponding path is Hanged Man.
+
 ### XIV - Art
+
+(8/17) Thought -> (6/11) Agent
+
+The meaning of this path is to do with how we manipulate symbols and are shaped by them.
+In the lunar cycle this path is also at the full moon, marking the halfway point in the fool's journey.
+As Art this is a turning point.
+Up to this point the forces have been shaping the agent, now the agent fully shifts to an active, creative role in the meanings of the subsequent paths.
+
+Traditionally the title of this card number is Temperance though ANQ follows renaming the path to Art.
+In the Thoth and G∴D∴ systems the corresponding path on the tree is the The Devil in the ANQ system the paths of Art and the Devil are swapped.
 
 ### XV - Devil
 
@@ -66,11 +142,35 @@ The star may be thought of as a seed crystal.
 Each new bit of information is linked into the growing matrix... though this card may also represent the opposite, a dissolution of thought, things dislodged, forgotten, buried. Cognitive theory is relevant as are processes identified such as deletion, distortion, and generalization. By these mechanisms sense data is transformed to be present (or absent) from thought.
 This makes the path of the star also extremely relevant for access to the subconscious, because of its role in editing the raw data. This has been called the psychic censor.
 
-In the Thoth and G:.D:. systems this path is the Tower
+In the Thoth and G∴D∴ systems this path is the Tower
 
 ### XVIII - Moon
 
+(8/17) Thought -> (9/19) Desire
+
+The eighth sphere has thought, language, and symbol while the ninth is fear and desire.
+In this path that links them we have dreams, myths, and archetypes.
+This is the way of symbols that move us in the deepest ways.
+In dreams these symbols are most pronounced, where they are free to draw outside line lines of sensible narrative.
+Depths are also a key to this card and symbols of water is apt for the subconscious.
+The eighth sphere is thought, but it is not rationality.
+Rationality is only a surface phenomena.
+In this path desire is like the treasure that slips out of hand into these depths, enticing you to dive in after it.
+These themes continue in the path XXV where it becomes The Labyrinth.
+
+The Thoth and G∴D∴ systems call this path The Sun.
+
 ### XIX - Sun
+
+(9/19) Desire -> (10/23) Object
+
+The Sun is desire opening a channel to manifestation.
+It is a breaking through solipsism, we will ourselves to be in a world that is beyond our control because only in such a world, a world that is more than us, can our desires truly find gratification.
+It is the uncertainty of the objective world, the world beyond our control, that makes this possible.
+This path is the gateway into that world, though as we step into it we become finite, we become small as we become real.
+We are like a god that has made a stone so large that we cannot lift it.
+
+The Thoth calls this path The Universe and G∴D∴ systems call this path The World, but we're at the end of where these correspondences should be expected to provide much of a hit about the meaning of the path, because the tenth sphere has split into subject and object and so has the corresponding path split off path XXIII.
 
 ### XX - Judgement
 
