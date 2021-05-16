@@ -2,7 +2,7 @@ ifdef::env-github,backend-html5[]
 link:00-Intro.adoc[< Prev - Introduction <]
 endif::[]
 
-## A Beginning
+== The Fundamental Question
 
 [quote,The Mass of the Dead God]
 ____
@@ -10,7 +10,6 @@ In the beginning the world was without form and void,
 and darkness was upon the face of the deep,
 and Chaos moved upon the face of the waters.
 ____
-
 
 // "Nothing is unstable," Frank Wilczek.
 // https://asunow.asu.edu/20170208-finding-nothing-conversation-frank-wilczek
@@ -20,13 +19,19 @@ ____
 // This question seems to be linked to Heidegger's Introduction to Metaphysics,
 // which is unfortunately linked to Nazism :(
 
-The fundamental question of metaphysics, why is there anything at all? or put another way, why not nothing?
-This is where we begin with this theory of magick.footnote:[We choose to use the spelling "magick" in the tradition of Aliester Crowley to differentiate from works of illusion.]
+The fundamental question of metaphysics: why is there anything at all instead of nothing?
+This is where we begin will begin our theory of magick.footnote:[We choose to use the spelling "magick" in the tradition of Aliester Crowley to differentiate from works of illusion.]
 
-Our response to this question asserts that core to the answer is the paradox it implies.
-Many explanations of existence are mere shell games.
-If we suggest there is a creator or creative force that does the creation, then where does this come from?
-Our theory of existence must also match to the data we have about existence, that it is subjective and that it occurs in time.
+Our response to this question asserts that core to the answer is the paradox any attempt at an answer implies.
+Many explanations of existence are mere shell games, explaining existence by positing a prior manner of existenc.
+If we suggest there is a creator or creative force, then where did that creator come from?
+We assert instead that existence arises spontaneously from non-existence itself and that it does so for no reason, because no-reason is required.
+
+Our theory of existence must also match to the data we have about existence: that existence is subjective and that existence occurs in time.
+The very word existence implies this paradox.
+Existence shares the prefix of exit.
+To exist is not to be in a state but to fall from a state.
+
 // http://www.scholarpedia.org/article/Hard_problem_of_consciousness
 Our theory of existence must address the "Hard Problem" of consciousness, expressing not just why there is existence but why it is experienced subjectively.
 This is a challenge that so far physical theories, theories that put objectivity first, have not sufficiently addressed, instead dodging the question or claiming subjectivity is somehow irrelevant, uninteresting, or a sort of psychological fraud.
@@ -48,8 +53,6 @@ Indeed, trying to map these associations is more likely to confuse that elucidat
 
 
 
-Author C. Clarke wrote, "Any sufficiently advanced technology is indistinguishable from magic."
-This may be true, but we aim to root our magick in a deeper place.
 
 
 
@@ -91,7 +94,7 @@ Magick...
 
 Nobel Laureate Frank Wilczek is credited with the aphorism that "nothing is unstable."
 
-### Negative Existence
+=== Negative Existence
 
 Existence happens because non-existence is unstable.
 
@@ -103,7 +106,11 @@ Nothing is not anything, nor is it void, nor is it not void.
 Following this spiral of negation we approach an understanding that nothing is in no way limited.
 The nature of pure non-being is identical with all being, even all contradiction, asserting itself into being simultaneously.
 
-### Primal Chaos
+=== No Reason
+
+=== Nuit and Hadit
+
+=== Chaos Magick
 
 The principle of the instability of non-being is primal Chaos.
 This is the divine spark of creation, the light that flashes out of void and defines the void in its light.

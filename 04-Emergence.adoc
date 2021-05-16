@@ -2,7 +2,7 @@ ifdef::env-github,backend-html5[]
 link:03-Pattern.adoc[< Prev - Pattern <]
 endif::[]
 
-## Emergence
+== Emergence
 
 Within the complexity of Pattern arise emergent phenomena.
 The game of chess lays out only the rules by which the pieces move and how the game is won, it does not dictate a strategy, and yet some moves are proven better than others.
@@ -20,6 +20,22 @@ The numbering of the paths will not exceed the sequence of the corresponding pri
 
 We also see here the first interesting numerical pattern, a symmetry of paths that all add to 5: 0+5, 1+4, 2+3.
 This is the first of many such patterns.
+
+=== Four Elements
+
+=== Intentional Analysis
+
+=== The number 4
+
+Mathematical truth, 4 = 2 x 2 = 2 + 2. 2 + 2 != 5
+
+=== Emergent Phenomena
+
+=== Concept of concept
+
+=== Game of Life
+
+Leary...
 
 image::media/4-tree.png[Fourth Tree]
 

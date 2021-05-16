@@ -2,7 +2,7 @@ ifdef::env-github,backend-html5[]
 link:04-Emergence.adoc[< Prev - Emergence <]
 endif::[]
 
-## Descent of Fire
+== Descent of Fire
 
 So far the process of manifestation describes only abstract static concepts.
 Because the emergence of intent in the previous step exists within a larger pattern there is now the possibility for these intents to be in conflict.
@@ -32,7 +32,7 @@ If we twist the bottom of the fifth step of the process tree we find it correspo
 
 image::media/5-tree.png[Fifth Tree, Twisted]
 
-### Reinterpreting the Elemental Pentagram
+=== Elemental Pentagrams
 
 The pentagram is just a five pointed star.
 If it appears in a circle then it can be called a pentacle.
@@ -145,6 +145,20 @@ In banishing we use five strokes, we reverse the initial direction and stop upon
 Banishing is balanced, the fifth stroke brings completion. Invoking is intentionally not balanced.
 
 image::media/elemental-pentagram.png[Elemental Pentagram]
+
+=== Banishing Rituals
+
+=== The number 5
+
+Golden ratio in pentagrams.
+3 + 2 and 4 + 1.
+
+=== Alternate Conformations
+
+=== Right and Lefthand paths
+
+
+
 
 ifdef::env-github,backend-html5[]
 link:06-Agency.adoc[> Next - Agency >]

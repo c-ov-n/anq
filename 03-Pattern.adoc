@@ -2,7 +2,7 @@ ifdef::env-github,backend-html5[]
 link:02-Process.adoc[< Prev - Process <]
 endif::[]
 
-## Pattern
+== Pattern
 
 The continuation of the process gives rise to a pattern.
 The run of the process can be collected in its entirety in the statement of the pattern it produces.
@@ -12,6 +12,12 @@ This is the divine principle of air, the result of the interaction of divine fir
 This step shows us the second mode of emergence, splitting.
 Both the sphere and its path is split.
 These are numbered sequentially with split paths numed first.
+
+=== Tessalations
+
+=== Thesis, Antithesis, Synthesis
+
+=== Paradims and Paradigm Shifting
 
 image::media/3-tree.png[Third Tree]
 

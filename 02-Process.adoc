@@ -2,7 +2,7 @@ ifdef::env-github,backend-html5[]
 link:01-Beginning.adoc[< Prev - A Beginning <]
 endif::[]
 
-## Process
+== Process
 
 If what is asserted into being by Chaos is incomplete then it leaves a gap for further creation to follow on.
 What is created is not a statement, but a question begging for an answer.
@@ -13,6 +13,12 @@ This flow is the divine principle of water.
 In this step the emergent tree shows us its mode of budding, one sphere gives rise to a second sphere.
 The first path also emerges here.
 This is the path of the fool and the nature of the fool is evident in this process of endlessly moving forward into the unknown.
+
+=== Incompleteness
+
+=== Absurdism
+
+=== Syzygy
 
 image::media/2-tree.png[Second Tree]
 
